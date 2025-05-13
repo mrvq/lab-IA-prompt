@@ -1,4 +1,4 @@
-# Artigo Gerado com IA
+# Criacao de conteudo
 
 ## Prompt
 > Escreva um artigo de marketing sobre como a IA está revolucionando o atendimento ao cliente.
