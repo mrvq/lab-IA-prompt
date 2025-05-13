@@ -1,4 +1,4 @@
-# Imagem Gerada com IA
+# Geracao de imagem 
 
 ## Prompt
 > Gere uma imagem realista de uma pessoa usando laptop num café moderno, com estilo cinematográfico.
